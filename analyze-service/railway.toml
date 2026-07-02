@@ -2,4 +2,4 @@
 startCommand = "npm run start"
 
 [environments.production.deploy]
-healthcheckPath = "/"
+healthcheckPath = "/health"
