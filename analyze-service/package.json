@@ -1,0 +1,17 @@
+{
+  "name": "talktohook-analyze",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "openai": "^6.45.0",
+    "ffmpeg-static": "^5.2.0",
+    "cors": "^2.8.5"
+  }
+}
