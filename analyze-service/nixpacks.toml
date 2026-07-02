@@ -1,0 +1,2 @@
+[variables]
+NIXPACKS_NGINX_CLIENT_MAX_BODY_SIZE = "200m"
